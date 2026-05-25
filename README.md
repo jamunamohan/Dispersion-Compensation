@@ -75,6 +75,7 @@ The main physical components of this layout are:
 ---
 
 ## CALCULATION & TABULATION
+
 <img width="1127" height="1245" alt="image" src="https://github.com/user-attachments/assets/84e87f1f-7f91-4e20-b739-2b66281e042e" />
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/ad3135df-88fb-4672-9e76-28267c4ef447" />
 
